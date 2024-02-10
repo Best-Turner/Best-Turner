@@ -16,7 +16,7 @@
   <a href="https://t.me/AleksandrTr" target="_blank">
   <img src="https://cdn-icons-png.freepik.com/256/10975/10975960.png?ga=GA1.1.1683989964.1707595840&semt=ais" alt="Telegram" style="width: 20px; height: 20px;">
   </a>
-* 🛠 В настоящее время я работаю над: [Monitoring-Serviceй ](http://github.com/Best-Turner/Y_Lab-TestTask)
+* 🛠 В настоящее время я работаю над: [Monitoring-Service](http://github.com/Best-Turner/Y_Lab-TestTask)
 * 📚 Изучаю: Активно изучаю Spring, чтобы расширить свои знания и умения в области программирования.
 * 🎯 Хочу освоить новую профессию и найти работу.
 
@@ -38,8 +38,8 @@
 
 ### ⚙️ GitHub статистика:
 
-<a href="http://www.github.com/Best-Turner"><img src="https://github-readme-stats.vercel.app/api?username=Best-Turner&show_icons=true&hide=stars,&count_private=true&title_color=facc15&text_color=f97316&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="Best-Turner's GitHub stats" /></a>
+<a href="http://www.github.com/Best-Turner"><img src="https://github-readme-stats.vercel.app/api?username=Best-Turner&show_icons=true&hide=stars,&count_private=true&title_color=facc15&text_color=f97316&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="Best-Turner's GitHub stats" /></a>
 
-<a href="http://www.github.com/Best-Turner"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Best-Turner&stroke=f97316&background=181824&ring=facc15&fire=facc15&currStreakNum=f97316&currStreakLabel=facc15&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+<a href="http://www.github.com/Best-Turner"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Best-Turner&stroke=f97316&background=171717&ring=facc15&fire=facc15&currStreakNum=f97316&currStreakLabel=facc15&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="https://github.com/Best-Turner" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Best-Turner&langs_count=10&title_color=facc15&text_color=f97316&icon_color=facc15&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Best-Turner" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Best-Turner&langs_count=10&title_color=facc15&text_color=f97316&icon_color=facc15&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
