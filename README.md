@@ -9,7 +9,7 @@
 взаимодействовать с командой и заказчиками. Непрерывное обучение и самосовершенствование являются ключевыми факторами
 моего профессионального развития.
 
-* 🖥️ Посмотреть мое портфолио: <a href="http://hh.ru/resume/c3fce0fbff048cfee90039ed1f316269796f6d" target="_blank">
+* 🖥️ Посмотреть мое резюме: <a href="http://hh.ru/resume/c3fce0fbff048cfee90039ed1f316269796f6d" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" alt="Telegram" style="width: 20px; height: 20px;">
   </a>
 * ✉ Как связаться со мной:   <a href="mailto:alexandr_trofimov91@mail.ru"><img src="https://camo.githubusercontent.com/1b7b07ac4213547972bdc77e9dc2a3c4b89e52a1c87352274d437e48dedb308b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
