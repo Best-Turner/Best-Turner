@@ -15,7 +15,7 @@
 * ✉ Как связаться со
   мной:   <a href="mailto:alexandr_trofimov91@mail.ru"><img src="https://camo.githubusercontent.com/1b7b07ac4213547972bdc77e9dc2a3c4b89e52a1c87352274d437e48dedb308b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://t.me/AleksandrTr" target="_blank"><img src="https://cdn-icons-png.freepik.com/256/10975/10975960.png?ga=GA1.1.1683989964.1707595840&semt=ais" alt="Telegram" style="width: 20px; height: 20px;"></a>
-* 🛠 В настоящее время я работаю над: - ConsoleAppTaskManager <https://github.com/Best-Turner/ConsoleAppTaskManager/tree/d1928a3d4e78f47a2fc9d85778de617890f1c9c7>
+* 🛠 В настоящее время я работаю над: - [ConsoleAppTaskManager](https://github.com/Best-Turner/ConsoleAppTaskManager/tree/d1928a3d4e78f47a2fc9d85778de617890f1c9c7)
 * 📚 Активно изучаю Spring, чтобы расширить свои знания и умения в области программирования.
 * 🎯 Хочу освоить новую профессию и найти работу.
 
