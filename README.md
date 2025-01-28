@@ -34,11 +34,11 @@
 
 ### 👨‍👨‍👦‍👦 Социальные сети
 
- <a href="https://vk.com/avtoritet2" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/00c90af3e47852007e89e41dc29ab2f432d03cfb239ab27caefa80d6367d2756/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3134352f3134353831332e706e67" width="40" height="40" alt="VK Badge" data-canonical-src="https://cdn-icons-png.flaticon.com/512/145/145813.png" style="max-width: 100%;">
+ <a href="https://vk.com/i_avtoritet_i" rel="nofollow">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="40" height="40" alt="VK Badge" data-canonical-src="https://cdn-icons-png.flaticon.com/512/145/145813.png" style="max-width: 100%;">
     </a>
 <a href="https://t.me/AleksandrTr" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/6badd5effe52bef2c64557fa8883104fd1fd80065c2feda39fd2b9ac4a858bae/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" width="40" height="40" alt="telegram group" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;">
+      <img src="https://pngicon.ru/file/uploads/telegram.png" width="40" height="40" alt="telegram group" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;">
     </a>
 
 ### ⚙️ GitHub статистика:
